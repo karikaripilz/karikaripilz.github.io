@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+</head>
+<title>linkMeteNex</title>
+<body>
+<header>
+<div class="menu-wrapper">
+  <input type="checkbox" id="menu-toggle" hidden>
+  
+  <label class="menu-icon" for="menu-toggle">
+    <span></span>
+    <span></span>
+    <span></span>
+  </label>
+  
+  <div class="overlay"></div>
+  
+  <nav class="menu">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Service</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+</div>
+</header>
+<h1>リンク一覧</h1>
+<p>※外部リンクです</p>
+
+<ul>
+<li><a href="https://x.com/kar1kar1_oc" target="_blank">Twitter（現X）創作垢</a></li> 
+<li><a href="https://x.com/subsubpilz" target="_blank">Twitter（現X）創作鍵垢</a></li> 
+<li><a href="https://privatter.me/user/karikaripilz" target="_blank">Privatter+（自創作中心）</a></li> 
+<li><a href="https://fusetter.com/u/subsubpilz" target="_blank">ふせったー（他創作中心）</a></li> 
+</ul>
+
+<footer>Copyright © 2026 karikaripilz</footer>
+</body> 
+</html>
